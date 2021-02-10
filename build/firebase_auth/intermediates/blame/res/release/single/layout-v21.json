@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\Development\\Projects\\final\\Social_Spark\\build\\firebase_auth\\intermediates\\res\\merged\\release\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Nabeel\\.gradle\\caches\\transforms-2\\files-2.1\\4ae415be1baa2d37b2cf16771288f1f3\\core-1.1.0\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\Development\\Projects\\final\\Social_Spark\\build\\firebase_auth\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Nabeel\\.gradle\\caches\\transforms-2\\files-2.1\\4ae415be1baa2d37b2cf16771288f1f3\\core-1.1.0\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\Development\\Projects\\final\\Social_Spark\\build\\firebase_auth\\intermediates\\res\\merged\\release\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Nabeel\\.gradle\\caches\\transforms-2\\files-2.1\\4ae415be1baa2d37b2cf16771288f1f3\\core-1.1.0\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\Development\\Projects\\final\\Social_Spark\\build\\firebase_auth\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Nabeel\\.gradle\\caches\\transforms-2\\files-2.1\\4ae415be1baa2d37b2cf16771288f1f3\\core-1.1.0\\res\\layout-v21\\notification_template_custom_big.xml"
+    }
+]

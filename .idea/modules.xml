@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Social_Spark.iml" filepath="$PROJECT_DIR$/Social_Spark.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/Social_Spark_android.iml" filepath="$PROJECT_DIR$/android/Social_Spark_android.iml" />
+    </modules>
+  </component>
+</project>

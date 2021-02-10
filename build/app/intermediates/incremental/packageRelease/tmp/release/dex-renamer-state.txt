@@ -1,0 +1,4 @@
+#Tue Jan 05 12:02:09 PKT 2021
+base.0=E\:\\Development\\Projects\\final\\Social_Spark\\build\\app\\intermediates\\transforms\\r8\\release\\0\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

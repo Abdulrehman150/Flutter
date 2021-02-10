@@ -1,0 +1,40 @@
+# Referenced at E:\Development\Projects\final\Social_Spark\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:27
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at E:\Development\Projects\final\Social_Spark\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:32
+-keep class com.example.Social_Spark.MainActivity { <init>(); }
+# Referenced at E:\Development\Projects\final\Social_Spark\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:248
+-keep class com.google.android.datatransport.runtime.backends.TransportBackendDiscovery { <init>(); }
+# Referenced at E:\Development\Projects\final\Social_Spark\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:261
+-keep class com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver { <init>(); }
+# Referenced at E:\Development\Projects\final\Social_Spark\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:255
+-keep class com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService { <init>(); }
+# Referenced at E:\Development\Projects\final\Social_Spark\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:239
+-keep class com.google.android.gms.common.api.GoogleApiActivity { <init>(); }
+# Referenced at E:\Development\Projects\final\Social_Spark\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:233
+-keep class com.google.android.gms.measurement.AppMeasurementJobService { <init>(); }
+# Referenced at E:\Development\Projects\final\Social_Spark\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:223
+-keep class com.google.android.gms.measurement.AppMeasurementReceiver { <init>(); }
+# Referenced at E:\Development\Projects\final\Social_Spark\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:229
+-keep class com.google.android.gms.measurement.AppMeasurementService { <init>(); }
+# Referenced at E:\Development\Projects\final\Social_Spark\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:184
+-keep class com.google.firebase.auth.api.fallback.service.FirebaseAuthFallbackService { <init>(); }
+# Referenced at E:\Development\Projects\final\Social_Spark\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:147
+-keep class com.google.firebase.auth.internal.GenericIdpActivity { <init>(); }
+# Referenced at E:\Development\Projects\final\Social_Spark\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:165
+-keep class com.google.firebase.auth.internal.RecaptchaActivity { <init>(); }
+# Referenced at E:\Development\Projects\final\Social_Spark\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:80
+-keep class com.google.firebase.components.ComponentDiscoveryService { <init>(); }
+# Referenced at E:\Development\Projects\final\Social_Spark\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:207
+-keep class com.google.firebase.iid.FirebaseInstanceIdReceiver { <init>(); }
+# Referenced at E:\Development\Projects\final\Social_Spark\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:198
+-keep class com.google.firebase.messaging.FirebaseMessagingService { <init>(); }
+# Referenced at E:\Development\Projects\final\Social_Spark\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:216
+-keep class com.google.firebase.provider.FirebaseInitProvider { <init>(); }
+# Referenced at E:\Development\Projects\final\Social_Spark\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:27
+-keep class io.flutter.app.FlutterApplication { <init>(); }
+# Referenced at E:\Development\Projects\final\Social_Spark\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:127
+-keep class io.flutter.plugins.firebasemessaging.FlutterFirebaseMessagingService { <init>(); }
+# Referenced at E:\Development\Projects\final\Social_Spark\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:133
+-keep class io.flutter.plugins.imagepicker.ImagePickerFileProvider { <init>(); }
+# Referenced at E:\Development\Projects\final\Social_Spark\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:143
+-keep class io.flutter.plugins.urllauncher.WebViewActivity { <init>(); }
